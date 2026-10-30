@@ -18,3 +18,6 @@ GRANT EXECUTE ON PROCEDURE attendance_db.app_session_list           TO 'attendan
 GRANT EXECUTE ON PROCEDURE attendance_db.app_lecturer_overview      TO 'attendance_app'@'localhost';
 
 FLUSH PRIVILEGES;
+
+
+
